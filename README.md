@@ -27,7 +27,7 @@ The file `project.md` provides a place for you to describe your proposed project
 you are describing only one project this week, be sure to take extra time to describe it
 well! Your goal should be to specify your current thoughts about the project, your current
 unknowns, and your sense of how suitable the project is for this course. For most
-questions 1-2 well-written paragraphs should suffice. Provide enough detail so that I and
+questions, 1-2 well-written paragraphs should suffice. Provide enough detail so that I and
 others in the class can give you helpful feedback. Aim for clarity; if you're not certain
 yet about something, say so!
 
@@ -38,7 +38,7 @@ the past few weeks.
 
 **Additionally, be prepared to talk about your project in class on Monday,
 March 27.** There's nothing extra to prepare for this discussion (other than
-doing this assignment); but be prepared to discuss. The goal for Monday's class
+doing this assignment); but be prepared to discuss. The goal for that class
 will be to feel confident about your project, thanks to the work you've done
 for this assignment and the feedback you will get in class.
 
@@ -93,5 +93,5 @@ thoughts on the domain?
 
 + [ ] Write responses in the file `pitch.md`.
 + [ ] Write responses in the file `contract.md`.
-+ [ ] Submit your work.
++ [ ] Submit your work (by pushing it to GitHub and submitting it on Gradescope)
 + [ ] Comment on your critique partners' work.
